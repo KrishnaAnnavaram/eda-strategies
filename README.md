@@ -36,7 +36,7 @@ The presentation includes:
 Aspiring Data Scientist | M.S. in Data Science  
 📍 Based in Texas, USA  
 🔗 [LinkedIn Profile](https://linkedin.com/in/krishna-annavaram)  
-✉️ krishnaannavaram02@gmail.com
+✉️ annavaramkrishna@gmail.com
 
 ---
 
